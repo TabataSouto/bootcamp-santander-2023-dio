@@ -1,5 +1,5 @@
 
-package operacoes.basicas;
+package list.operacoes.basicas;
 /* A classe chamada "ListaTarefa" deve ter uma
  uma lista de tarefas como atributo. */
 

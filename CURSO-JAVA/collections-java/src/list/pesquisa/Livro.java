@@ -1,4 +1,4 @@
-package pesquisa;
+package list.pesquisa;
 
 public class Livro {
     // cada livro possui atributos como titulo, autor e ano de publicação

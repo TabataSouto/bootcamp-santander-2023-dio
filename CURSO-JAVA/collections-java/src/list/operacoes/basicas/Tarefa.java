@@ -1,4 +1,4 @@
-package operacoes.basicas;
+package list.operacoes.basicas;;
 /* Cada tarefa é representada por uma classe "Tarefa"
  que possui um atributo de descrição. */
 
